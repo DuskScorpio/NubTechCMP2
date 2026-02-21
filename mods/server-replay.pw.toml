@@ -1,0 +1,13 @@
+name = "ServerReplay"
+filename = "ServerReplay-3.2.8+1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qCvSZ8ra/versions/28Zn6y69/ServerReplay-3.2.8%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "9349ff1084931eb0dcf23fc9e2291358131571516e166121b4945e7c9e1a91fbec3ea42ce8f016b1746847e53d937b28c4eec5c95da70431908cc8e435360f81"
+
+[update]
+[update.modrinth]
+mod-id = "qCvSZ8ra"
+version = "28Zn6y69"

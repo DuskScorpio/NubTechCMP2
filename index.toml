@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/afkplus.pw.toml"
+hash = "cddb494fec8a97a6233c434a1ca90f5bed32efd098847106eb89a1194ad47fa5"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "39612f7b7fc69c664bacfbdb1564887e1a7700534d1320593c7cad0e549cd038"
 metafile = true
@@ -12,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/capture-playback.pw.toml"
-hash = "8c502299919e043db8a5e950d15935e8da58520699c9ed0a8c5a36fcab57676d"
+hash = "59c790ee67eff79864acf423b03f8e2adf061c30cb2a7c55222e172e345dc46f"
 metafile = true
 
 [[files]]
@@ -86,6 +91,11 @@ hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "4844eeacb69a87292556f478d3425e1d0255bbafef5b9f483d5652208313b449"
 metafile = true
@@ -111,6 +121,11 @@ hash = "2433a43c0bff3e54a2e114c2430a235c54ed139ea72f5afbd3da267c6b92bc09"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+metafile = true
+
+[[files]]
 file = "mods/redstone-multimeter.pw.toml"
 hash = "4e28cdd947e2fffa245a3654700a7ac4d5adb475260d4da1e4326950b3ef3eb4"
 metafile = true
@@ -118,6 +133,16 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "a3ef637ed309377c4da2ea6cd588be9ebdb1078431e41881fea7a51bd6885cc0"
+metafile = true
+
+[[files]]
+file = "mods/server-replay.pw.toml"
+hash = "967fdea45f8b6f0c796a6fc586a8797c490a494fc243b22143590b652bd1521f"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "7e5ee84c0ffd1d2a8ac5b05bade2a27fdc2e73caa431f7860ec440e904c66ae0"
 metafile = true
 
 [[files]]
@@ -142,17 +167,17 @@ metafile = true
 
 [[files]]
 file = "mods/viabackwards.pw.toml"
-hash = "dbfff1665e3860bfae28b9422a41ef7eb855fd47a240e99e2f9c85df45eeb136"
+hash = "6dd35afe26c8fd488d4fd77b86564f4d479d6132a566d3c4a6c011583e148d0a"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "695d8765874f311d578b9336753d9e4c9c2ce9df927a517614f234237fcd7e7a"
+hash = "2b521d51539ceea11c6c5310ff2dcfa38cfb8084558355b4bfbd0fde177ab912"
 metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "632c030d8e39aa8e540a987a5b7161be316a0c5efaff3d8d87b7919e13784131"
+hash = "bda0f643b257e9b1f91e40b3d7f2b330cfea978d14ccf7e490ccf4fcdc41445a"
 metafile = true
 
 [[files]]
