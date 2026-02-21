@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-debug.pw.toml"
-hash = "06361c99cafd822467d48858ed3a4f6cc054cf238f634dbcdc3f958527d0b6e9"
+hash = "cd63ba94d79c6f0208a52e3ad5f054c1e2297d4e359c94cd4e4756ab0ef653f8"
 metafile = true
 
 [[files]]
