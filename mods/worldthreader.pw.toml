@@ -1,5 +1,5 @@
 name = "Worldthreader"
-filename = "Worldthreader-2.7.1.jar.disabled"
+filename = "Worldthreader-2.7.1.jar"
 side = "server"
 
 [download]
