@@ -156,11 +156,6 @@ hash = "2a30c4cf3b1132b219bbf45ce8c4626de461a74f5dd56ada03ae14528a6cbe11"
 metafile = true
 
 [[files]]
-file = "mods/unobtainable-blocks.pw.toml"
-hash = "826da2a41871112aa1d7f883c2c3d75fff401b4348b302817fb30bda416915cb"
-metafile = true
-
-[[files]]
 file = "mods/viabackwards.pw.toml"
 hash = "6dd35afe26c8fd488d4fd77b86564f4d479d6132a566d3c4a6c011583e148d0a"
 metafile = true
